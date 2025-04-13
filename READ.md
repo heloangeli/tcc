@@ -1,4 +1,4 @@
-Repositório referente ao meu TCC.
+Repositório referente aos Diagramas de Sankey do meu TCC.
 
 Instituição: USP/Esalq
 Curso: MBA em Data Science e Analytics
